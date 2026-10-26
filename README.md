@@ -20,7 +20,7 @@
 ![sql_schema_load](images/sql_data_schema.gif)
 - *In order to start my analysis i ran the data through Excel to explore the data and kind of get a first glance view of the data in order to have an idea of what i will be using to answer the questions that i have jotted down for analysis, after that i imported into my postgresql database*
 
-Have a look at the data [here]() and the sql queries [here]()
+Have a look at the data [here](csv) and the sql queries [here](sql)
 
 ## The Dashboard
 
