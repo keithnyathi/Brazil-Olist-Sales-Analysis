@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "brazil_sales_db",
+            "database": "brazil_sales_db",
+            "username": "postgres"
+        }
+    ]
+}
